@@ -1,0 +1,33 @@
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+}
+
+header {
+    background-color: #1292a0;
+    color: #0e4532;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #3f69a0;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.products{
+    color: blueviolet;
+    background-color: #75b09c;
+}
+h2{
+    text-align: center;
+    color: rgb(176, 21, 21);
+}
